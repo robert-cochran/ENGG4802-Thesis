@@ -1,0 +1,16 @@
+To run the script as is:
+
+	Before running:
+		Make sure calpy has been installed on the computer. Running the command:
+			pip install calpy
+		in terminal will allow calpy to be used like any other python module
+	
+	Once installed: 
+		The script can simply be run either through terminal as:
+			python calpy_test_script.py
+		or by double clicking it
+
+To run script without installing calpy:
+	
+	Download the calpy files from the git repo at "https://github.com/YvonneYYu/calpy"
+	and run the script through pycharm (or any python ide) with calpy imported in the project

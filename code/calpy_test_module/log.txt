@@ -1,0 +1,63 @@
+DEBUG:root:*******DEBUG********
+DEBUG:root:*******DEBUG********
+DEBUG:root:*******DEBUG********
+ERROR:root:Got exception on main handler
+Traceback (most recent call last):
+  File "calpy_test_script.py", line 194, in <module>
+    main()
+  File "calpy_test_script.py", line 168, in main
+    plot_sounding_pattern('data/4484-L-Cut.wav', 'data/4390-L.wav', filename="pause_code/pause_code")
+  File "calpy_test_script.py", line 81, in plot_sounding_pattern
+    github_calpy_master.plots.sounding_pattern_plot(
+NameError: name 'github_calpy_master' is not defined
+DEBUG:root:*******DEBUG********
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\Computer\\AppData\\Local\\Programs\\Python\\Python37\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\Computer\\AppData\\Local\\Programs\\Python\\Python37\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+ERROR:root:Got exception on main handler
+Traceback (most recent call last):
+  File "calpy_test_script.py", line 194, in <module>
+    main()
+  File "calpy_test_script.py", line 168, in main
+    plot_sounding_pattern('data/4484-L-Cut.wav', 'data/4390-L.wav', filename="pause_code/pause_code")
+  File "calpy_test_script.py", line 93, in plot_sounding_pattern
+    title=title)
+  File "C:\Users\Computer\Desktop\blank_test\github_calpy\plots\plots.py", line 448, in sounding_pattern_plot
+    plt.savefig('{}.png'.format(filename))
+  File "C:\Users\Computer\AppData\Local\Programs\Python\Python37\lib\site-packages\matplotlib\pyplot.py", line 688, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "C:\Users\Computer\AppData\Local\Programs\Python\Python37\lib\site-packages\matplotlib\figure.py", line 2097, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "C:\Users\Computer\AppData\Local\Programs\Python\Python37\lib\site-packages\matplotlib\backend_bases.py", line 2075, in print_figure
+    **kwargs)
+  File "C:\Users\Computer\AppData\Local\Programs\Python\Python37\lib\site-packages\matplotlib\backends\backend_agg.py", line 521, in print_png
+    cbook.open_file_cm(filename_or_obj, "wb") as fh:
+  File "C:\Users\Computer\AppData\Local\Programs\Python\Python37\lib\contextlib.py", line 112, in __enter__
+    return next(self.gen)
+  File "C:\Users\Computer\AppData\Local\Programs\Python\Python37\lib\site-packages\matplotlib\cbook\__init__.py", line 407, in open_file_cm
+    fh, opened = to_filehandle(path_or_file, mode, True, encoding)
+  File "C:\Users\Computer\AppData\Local\Programs\Python\Python37\lib\site-packages\matplotlib\cbook\__init__.py", line 392, in to_filehandle
+    fh = open(fname, flag, encoding=encoding)
+FileNotFoundError: [Errno 2] No such file or directory: 'pause_code/pause_code.png'
+DEBUG:root:*******DEBUG********
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('C:\\Users\\Computer\\AppData\\Local\\Programs\\Python\\Python37\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('C:\\Users\\Computer\\AppData\\Local\\Programs\\Python\\Python37\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
