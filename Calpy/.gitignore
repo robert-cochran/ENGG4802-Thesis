@@ -1,0 +1,14 @@
+*.wav
+*.pyc
+*.dat
+*.npy
+*.png
+*.jpg
+*.pdf
+*.eps
+.vscode
+dist
+calpy.egg-info
+testing
+__pycahce__
+sandbox.py
