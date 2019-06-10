@@ -1,0 +1,7 @@
+File 
+ Input Audio File Directory: ./data/dialogue/interview/abc/radio/programs/conversations/aaj-2019-03-15/jjj_insert_30m_jmo-dean-lewis/aaj-2019-03-15_jjj_insert_30m_jmo-dean-lewis.wav
+ Audio File Frequency: jjj_insert_30m_jmo-dean-lewis
+
+Pause 
+ Minimum Silence: 0.001
+

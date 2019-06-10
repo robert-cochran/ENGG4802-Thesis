@@ -1,0 +1,7 @@
+File 
+ Input Audio File Directory: ./data/dialogue/conversations/media.talkbank.org/ca/CallFriend/eng-n/0wav/5635/16000/5635_16000.wav
+ Audio File Frequency: 16000
+
+Pause 
+ Minimum Silence: 0.001
+

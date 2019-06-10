@@ -1,0 +1,39 @@
+Time Stamp: 2019-04-25 00:17:53
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 8986
+ Number_of_Pauses: 465
+ Total_Pauses: 8298.0
+ Total_Sounding: 688.0
+ Pause_Proportion: 0.9234364567104385
+ Average_Pause_Length: 17.84516129032258
+
+Symbols 
+ Symbol Occurrence: [148, 85, 99, 90, 37, 6]
+ Ranked Probability: [(148, 'A'), (99, 'C'), (90, 'D'), (85, 'B'), (37, 'E'), (6, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [44, 104, 85, 99, 90, 37, 6]
+ Ranked Probability: [(104, 'B'), (99, 'D'), (90, 'E'), (85, 'C'), (44, 'A'), (37, 'F'), (6, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [44, 104, 85, 99, 90, 37, 6]
+ Ranked Probability: [(104, 'B'), (99, 'D'), (90, 'E'), (85, 'C'), (44, 'A'), (37, 'F'), (6, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [44, 104, 85, 99, 90, 37, 6]
+ Ranked Probability: [(104, 'B'), (99, 'D'), (90, 'E'), (85, 'C'), (44, 'A'), (37, 'F'), (6, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [44, 104, 85, 99, 90, 37, 6]
+ Ranked Probability: [(104, 'B'), (99, 'D'), (90, 'E'), (85, 'C'), (44, 'A'), (37, 'F'), (6, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [44, 104, 85, 99, 90, 37, 6]
+ Ranked Probability: [(104, 'B'), (99, 'D'), (90, 'E'), (85, 'C'), (44, 'A'), (37, 'F'), (6, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [44, 104, 85, 99, 90, 37, 6]
+ Ranked Probability: [(104, 'B'), (99, 'D'), (90, 'E'), (85, 'C'), (44, 'A'), (37, 'F'), (6, 'G')]
+
+ 

@@ -1,0 +1,5 @@
+Symbols 
+ Symbol Occurrence: [116, 28, 14, 3, 4, 5, 0, 0, 1]
+ Ranked Probability: [(116, 'A'), (28, 'B'), (14, 'C'), (5, 'F'), (4, 'E'), (3, 'D'), (1, 'I'), (0, 'G'), (0, 'H')]
+
+ 

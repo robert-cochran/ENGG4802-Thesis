@@ -1,0 +1,119 @@
+file number: 0696 number of pauses: 796
+file number: 0743 number of pauses: 244
+				file number: 0856 number of pauses: 198
+				file number: 0862 number of pauses: 17
+				file number: 0922 number of pauses: 38
+				file number: 0924 number of pauses: 139
+				file number: 0930 number of pauses: 40
+				file number: 0986 number of pauses: 13
+file number: 0988 number of pauses: 590
+		file number: 1003 number of pauses: 215
+file number: 1005 number of pauses: 414
+				file number: 1012 number of pauses: 106
+				file number: 1032 number of pauses: 89
+				file number: 1041 number of pauses: 99
+				file number: 1048 number of pauses: 108
+				file number: 1057 number of pauses: 35
+				file number: 1069 number of pauses: 1
+				file number: 1072 number of pauses: 27
+				file number: 1099 number of pauses: 11
+				file number: 1109 number of pauses: 48
+				file number: 1123 number of pauses: 39
+				file number: 1237 number of pauses: 94
+				file number: 1263 number of pauses: 128
+				file number: 1277 number of pauses: 181
+file number: 1288 number of pauses: 465
+file number: 1290 number of pauses: 589
+				file number: 1328 number of pauses: 87
+file number: 1369 number of pauses: 796
+				file number: 1370 number of pauses: 21
+file number: 1418 number of pauses: 277
+file number: 1425 number of pauses: 484
+file number: 1428 number of pauses: 649
+file number: 1461 number of pauses: 638
+file number: 1509 number of pauses: 850
+				file number: 1538 number of pauses: 4
+				file number: 1541 number of pauses: 116
+				file number: 1542 number of pauses: 112
+				file number: 1557 number of pauses: 135
+file number: 1586 number of pauses: 267
+				file number: 1593 number of pauses: 139
+file number: 1604 number of pauses: 684
+file number: 1607 number of pauses: 543
+file number: 1608 number of pauses: 459
+				file number: 1615 number of pauses: 198
+file number: 1622 number of pauses: 647
+file number: 1628 number of pauses: 386
+				file number: 1629 number of pauses: 126
+				file number: 1642 number of pauses: 21
+				file number: 1667 number of pauses: 106
+file number: 1670 number of pauses: 401
+				file number: 1674 number of pauses: 127
+file number: 1688 number of pauses: 344
+				file number: 1690 number of pauses: 53
+				file number: 1710 number of pauses: 22
+				file number: 1713 number of pauses: 7
+file number: 1725 number of pauses: 333
+file number: 1731 number of pauses: 247
+file number: 1738 number of pauses: 323
+file number: 1741 number of pauses: 267
+				file number: 1749 number of pauses: 47
+file number: 1832 number of pauses: 1349
+				file number: 1867 number of pauses: 176
+				file number: 1889 number of pauses: 7
+				file number: 1899 number of pauses: 65
+file number: 1925 number of pauses: 541
+				file number: 1928 number of pauses: 1
+file number: 1966 number of pauses: 595
+file number: 1967 number of pauses: 320
+				file number: 1999 number of pauses: 69
+file number: 2004 number of pauses: 601
+file number: 2035 number of pauses: 206
+file number: 2041 number of pauses: 529
+file number: 2053 number of pauses: 1032
+file number: 2074 number of pauses: 679
+file number: 2085 number of pauses: 381
+file number: 2096 number of pauses: 347
+				file number: 2111 number of pauses: 191
+				file number: 2134 number of pauses: 129
+file number: 2157 number of pauses: 539
+				file number: 2180 number of pauses: 78
+file number: 2188 number of pauses: 462
+				file number: 2196 number of pauses: 56
+file number: 2199 number of pauses: 777
+				file number: 2204 number of pauses: 171
+				file number: 2206 number of pauses: 123
+				file number: 2207 number of pauses: 48
+				file number: 2208 number of pauses: 297
+file number: 2209 number of pauses: 241
+				file number: 2210 number of pauses: 90
+file number: 2212 number of pauses: 227
+				file number: 2214 number of pauses: 25
+file number: 2215 number of pauses: 737
+				file number: 2216 number of pauses: 76
+file number: 2217 number of pauses: 314
+file number: 2218 number of pauses: 256
+				file number: 2219 number of pauses: 41
+file number: 2220 number of pauses: 364
+				file number: 2222 number of pauses: 17
+				file number: 2223 number of pauses: 170
+file number: 2224 number of pauses: 508
+file number: 2225 number of pauses: 1142
+file number: 2231 number of pauses: 502
+file number: 2234 number of pauses: 645
+file number: 2235 number of pauses: 246
+file number: 2236 number of pauses: 993
+				file number: 2237 number of pauses: 169
+				file number: 2238 number of pauses: 124
+file number: 2239 number of pauses: 371
+file number: 2242 number of pauses: 461
+file number: 2243 number of pauses: 281
+				file number: 3001 number of pauses: 143
+				file number: 3002 number of pauses: 55
+				file number: 3004 number of pauses: 79
+file number: 3005 number of pauses: 393
+file number: 3006 number of pauses: 226
+				file number: 3007 number of pauses: 76
+				file number: 3008 number of pauses: 166
+				file number: 4061 number of pauses: 152
+				file number: 4275 number of pauses: 53

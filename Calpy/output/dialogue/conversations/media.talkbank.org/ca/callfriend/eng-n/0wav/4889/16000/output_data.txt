@@ -1,0 +1,487 @@
+Time Stamp: 2019-04-20 11:18:19
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 15194
+ Number_of_Pauses: 576
+ Total_Pauses: 14240.0
+ Total_Sounding: 954.0
+ Pause_Proportion: 0.9372120573910754
+ Average_Pause_Length: 24.72222222222222
+
+Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [53, 16, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(53, 'A'), (16, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [522, 560, 576, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(576, 'C'), (560, 'B'), (522, 'A'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [522, 560, 576, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(576, 'C'), (560, 'B'), (522, 'A'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [522, 560, 576, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(576, 'C'), (560, 'B'), (522, 'A'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [522, 560, 576, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(576, 'C'), (560, 'B'), (522, 'A'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [522, 560, 576, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(576, 'C'), (560, 'B'), (522, 'A'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [522, 38, 16, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(522, 'A'), (38, 'B'), (16, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [522, 38, 16, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(522, 'A'), (38, 'B'), (16, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29, 0, 0, 0]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [232, 75, 78, 108, 49, 29]
+ Ranked Probability: [(232, 'A'), (108, 'D'), (78, 'C'), (75, 'B'), (49, 'E'), (29, 'F')]
+
+ 

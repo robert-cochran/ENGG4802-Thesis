@@ -1,0 +1,13 @@
+Symbols 
+ Number of Symbols: 2
+ Symbol Model: [3] else B
+ Symbols produced: 3560
+
+Entropy 
+ M: 27
+ ap: 0.0073
+ bp: 4.2432
+ cp: 4.2013
+ window_size: 100
+ window_overlap: 99
+

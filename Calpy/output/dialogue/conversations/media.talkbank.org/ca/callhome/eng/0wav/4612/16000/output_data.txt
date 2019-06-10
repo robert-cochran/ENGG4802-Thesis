@@ -1,0 +1,15 @@
+Time Stamp: 2019-04-23 16:04:18
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 17999
+ Number_of_Pauses: 4
+ Total_Pauses: 17994.0
+ Total_Sounding: 5.0
+ Pause_Proportion: 0.999722206789266
+ Average_Pause_Length: 4498.5
+
+Symbols 
+ Symbol Occurrence: [0, 0, 0, 0, 0, 1]
+ Ranked Probability: [(1, 'F'), (0, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E')]
+
+ 

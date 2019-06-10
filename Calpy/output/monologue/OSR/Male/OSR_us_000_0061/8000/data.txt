@@ -1,0 +1,5 @@
+Symbols 
+ Symbol Occurrence: [35, 9, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(35, 'A'), (9, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ 

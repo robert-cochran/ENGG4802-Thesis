@@ -1,0 +1,24 @@
+English 
+	Southern
+		Female only
+			Middle Aged
+				6862
+			Young
+				4889	4894	5000	5926	6015	6062	6239	6278	6938
+			Young+Middle Aged
+				6899
+		Male only
+			Middle Aged
+				4745 4874
+			Young
+				4175	4708	4823	6193	6476	6869
+			Young+Middle Aged
+				5051	6952
+		Mixed
+			Middle Aged
+				4504	6126	6372
+			Young
+				5220	6065	6093	6157	6379
+			Young+Middle Aged
+				5635	6255
+	Northern

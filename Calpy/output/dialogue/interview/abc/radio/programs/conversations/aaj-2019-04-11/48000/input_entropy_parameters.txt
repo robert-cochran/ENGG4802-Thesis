@@ -1,0 +1,5 @@
+Symbols 
+ Number of Symbols: 2
+ Symbol Model: [10] else B
+ Symbols produced: 3942
+

@@ -1,0 +1,31 @@
+Time Stamp: 2019-04-25 06:12:33
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 17992
+ Number_of_Pauses: 281
+ Total_Pauses: 17608.0
+ Total_Sounding: 384.0
+ Pause_Proportion: 0.9786571809693198
+ Average_Pause_Length: 62.661921708185055
+
+Symbols 
+ Symbol Occurrence: [52, 34, 44, 56, 36, 41]
+ Ranked Probability: [(56, 'D'), (52, 'A'), (44, 'C'), (41, 'F'), (36, 'E'), (34, 'B')]
+
+ Symbols 
+ Symbol Occurrence: [12, 40, 34, 44, 56, 36, 41]
+ Ranked Probability: [(56, 'E'), (44, 'D'), (41, 'G'), (40, 'B'), (36, 'F'), (34, 'C'), (12, 'A')]
+
+ Symbols 
+ Symbol Occurrence: [12, 40, 34, 44, 56, 36, 41]
+ Ranked Probability: [(56, 'E'), (44, 'D'), (41, 'G'), (40, 'B'), (36, 'F'), (34, 'C'), (12, 'A')]
+
+ Symbols 
+ Symbol Occurrence: [12, 40, 34, 44, 56, 36, 41]
+ Ranked Probability: [(56, 'E'), (44, 'D'), (41, 'G'), (40, 'B'), (36, 'F'), (34, 'C'), (12, 'A')]
+
+ Symbols 
+ Symbol Occurrence: [12, 40, 34, 44, 56, 36, 41]
+ Ranked Probability: [(56, 'E'), (44, 'D'), (41, 'G'), (40, 'B'), (36, 'F'), (34, 'C'), (12, 'A')]
+
+ 

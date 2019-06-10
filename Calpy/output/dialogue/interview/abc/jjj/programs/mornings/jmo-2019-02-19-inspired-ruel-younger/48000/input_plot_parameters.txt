@@ -1,0 +1,5 @@
+Plots 
+ Histogram 
+  Bins: 20
+  Bin Range: 0, 20
+  

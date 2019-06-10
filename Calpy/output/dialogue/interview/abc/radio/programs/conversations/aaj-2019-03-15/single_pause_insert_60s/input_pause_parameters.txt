@@ -1,0 +1,7 @@
+File 
+ Input Audio File Directory: ./data/dialogue/interview/abc/radio/programs/conversations/aaj-2019-03-15/single_pause_insert_60s/aaj-2019-03-15_single_pause_insert_60s.wav
+ Audio File Frequency: single_pause_insert_60s
+
+Pause 
+ Minimum Silence: 0.001
+

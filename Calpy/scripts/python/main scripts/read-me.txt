@@ -1,0 +1,27 @@
+About the Scipts:
+
+These scripts can be run through terminal by running them through python3. An example:
+
+"python3 digitise_eng-n.py"
+
+This should load the appropriate files from directory. The file structure dir must be in the same format as in the scripts. If unsure, check the folder structure in the "data" folder and see that it matches the file_path variable. Same with the file name and the file_name variable. 
+
+
+
+
+
+Running Scripts:
+
+In order to preserve the folder structure, scripts should be moved into the same folder as "main.py" so they automatically write to the correct directory. 
+
+
+
+
+
+Scripts:
+
+Digitise Audio Files: Takes all the files in eng-n, eng-s, jpn, spa, callfriend, callhome, etc... and converts them into the raw output of sound and no sound present. Running this script can take about 30-40 minutes on a light weight laptop. Running times will increase for higher powered machines.
+
+All Pause Functions: Runs all the pause functions from digitizing the audio all the way to producing the plots of the data.
+
+Pause Analysis: Only produces plots. Script assumes pause ditigisation has been done.

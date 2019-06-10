@@ -1,0 +1,13 @@
+Symbols 
+ Number of Symbols: 10
+ Symbol Model: [2, 3, 4, 5, 6, 7, 8, 9, 10] else J
+ Symbols produced: 32
+
+Entropy 
+ M: 27
+ ap: 0.0073
+ bp: 4.2432
+ cp: 4.2013
+ window_size: 150
+ window_overlap: 149
+

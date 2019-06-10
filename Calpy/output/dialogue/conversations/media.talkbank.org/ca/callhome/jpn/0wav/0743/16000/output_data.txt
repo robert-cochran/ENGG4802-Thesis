@@ -1,0 +1,95 @@
+Time Stamp: 2019-04-24 23:29:06
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 4390
+ Number_of_Pauses: 244
+ Total_Pauses: 4068.0
+ Total_Sounding: 322.0
+ Pause_Proportion: 0.9266514806378132
+ Average_Pause_Length: 16.672131147540984
+
+Symbols 
+ Symbol Occurrence: [81, 52, 47, 47, 14, 2]
+ Ranked Probability: [(81, 'A'), (52, 'B'), (47, 'C'), (47, 'D'), (14, 'E'), (2, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [23, 58, 52, 47, 47, 14, 2]
+ Ranked Probability: [(58, 'B'), (52, 'C'), (47, 'D'), (47, 'E'), (23, 'A'), (14, 'F'), (2, 'G')]
+
+ 

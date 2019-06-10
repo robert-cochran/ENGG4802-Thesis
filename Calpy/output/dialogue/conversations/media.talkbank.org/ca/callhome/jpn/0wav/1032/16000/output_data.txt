@@ -1,0 +1,23 @@
+Time Stamp: 2019-04-24 23:58:35
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 8987
+ Number_of_Pauses: 89
+ Total_Pauses: 8866.0
+ Total_Sounding: 121.0
+ Pause_Proportion: 0.9865361077111383
+ Average_Pause_Length: 99.61797752808988
+
+Symbols 
+ Symbol Occurrence: [16, 2, 13, 18, 14, 16]
+ Ranked Probability: [(18, 'D'), (16, 'A'), (16, 'F'), (14, 'E'), (13, 'C'), (2, 'B')]
+
+ Symbols 
+ Symbol Occurrence: [5, 11, 2, 13, 18, 14, 16]
+ Ranked Probability: [(18, 'E'), (16, 'G'), (14, 'F'), (13, 'D'), (11, 'B'), (5, 'A'), (2, 'C')]
+
+ Symbols 
+ Symbol Occurrence: [5, 11, 2, 13, 18, 14, 16]
+ Ranked Probability: [(18, 'E'), (16, 'G'), (14, 'F'), (13, 'D'), (11, 'B'), (5, 'A'), (2, 'C')]
+
+ 

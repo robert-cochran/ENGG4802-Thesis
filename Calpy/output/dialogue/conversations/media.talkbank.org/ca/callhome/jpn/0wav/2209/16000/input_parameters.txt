@@ -1,0 +1,93 @@
+File 
+ Input Audio File Directory: ./data/dialogue/conversations/media.talkbank.org/ca/CallHome/jpn/0wav/2209/16000/2209_16000.wav
+ Audio File Frequency: 16000
+
+Pause 
+ Minimum Silence: 0.001
+
+Symbols 
+ Number of Symbols: 6
+ Symbol Model: [5, 10, 20, 50, 100, 200]
+ Symbols produced: 224
+
+Entropy 
+ M: 27
+ ap: 0.0073
+ bp: 4.2432
+ cp: 4.2013
+ window_size: 50
+ window_overlap: 40
+
+Plots 
+ Histogram 
+  Bins: 20
+  Bin Range: 0, 100
+  Symbols 
+ Number of Symbols: 7
+ Symbol Model: [2, 5, 10, 20, 50, 100, 200]
+ Symbols produced: 224
+
+Entropy 
+ M: 27
+ ap: 0.0073
+ bp: 4.2432
+ cp: 4.2013
+ window_size: 100
+ window_overlap: 0
+
+Plots 
+ Histogram 
+  Bins: 20
+  Bin Range: 0, 100
+  Symbols 
+ Number of Symbols: 7
+ Symbol Model: [2, 5, 10, 20, 50, 100, 200]
+ Symbols produced: 224
+
+Entropy 
+ M: 27
+ ap: 0.0073
+ bp: 4.2432
+ cp: 4.2013
+ window_size: 100
+ window_overlap: 0
+
+Plots 
+ Histogram 
+  Bins: 20
+  Bin Range: 0, 100
+  Symbols 
+ Number of Symbols: 7
+ Symbol Model: [2, 5, 10, 20, 50, 100, 200]
+ Symbols produced: 224
+
+Entropy 
+ M: 27
+ ap: 0.0073
+ bp: 4.2432
+ cp: 4.2013
+ window_size: 100
+ window_overlap: 0
+
+Plots 
+ Histogram 
+  Bins: 20
+  Bin Range: 0, 100
+  Symbols 
+ Number of Symbols: 7
+ Symbol Model: [2, 5, 10, 20, 50, 100, 200]
+ Symbols produced: 224
+
+Entropy 
+ M: 27
+ ap: 0.0073
+ bp: 4.2432
+ cp: 4.2013
+ window_size: 100
+ window_overlap: 0
+
+Plots 
+ Histogram 
+  Bins: 20
+  Bin Range: 0, 100
+  

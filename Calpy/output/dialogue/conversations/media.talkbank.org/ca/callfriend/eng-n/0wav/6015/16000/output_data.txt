@@ -1,0 +1,383 @@
+Time Stamp: 2019-04-21 09:08:34
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 17999
+ Number_of_Pauses: 599
+ Total_Pauses: 17015.0
+ Total_Sounding: 984.0
+ Pause_Proportion: 0.9453302961275627
+ Average_Pause_Length: 28.40567612687813
+
+Symbols 
+ Symbol Occurrence: [424, 65, 32, 21, 15, 25, 15, 2, 0]
+ Ranked Probability: [(424, 'A'), (65, 'B'), (32, 'C'), (25, 'F'), (21, 'D'), (15, 'E'), (15, 'G'), (2, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [241, 113, 70, 89, 44, 25]
+ Ranked Probability: [(241, 'A'), (113, 'B'), (89, 'D'), (70, 'C'), (44, 'E'), (25, 'F')]
+
+ 

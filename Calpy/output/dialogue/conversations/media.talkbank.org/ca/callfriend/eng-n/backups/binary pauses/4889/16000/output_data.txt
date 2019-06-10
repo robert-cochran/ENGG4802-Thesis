@@ -1,0 +1,27 @@
+Time Stamp: 2019-04-20 11:18:19
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 15194
+ Number_of_Pauses: 576
+ Total_Pauses: 14240.0
+ Total_Sounding: 954.0
+ Pause_Proportion: 0.9372120573910754
+ Average_Pause_Length: 24.72222222222222
+
+Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [385, 84, 37, 22, 14, 29, 5, 0, 0]
+ Ranked Probability: [(385, 'A'), (84, 'B'), (37, 'C'), (29, 'F'), (22, 'D'), (14, 'E'), (5, 'G'), (0, 'H'), (0, 'I')]
+
+ 

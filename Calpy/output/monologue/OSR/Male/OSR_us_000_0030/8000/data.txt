@@ -1,0 +1,5 @@
+Symbols 
+ Symbol Occurrence: [25, 6, 1, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(25, 'A'), (6, 'B'), (1, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ 

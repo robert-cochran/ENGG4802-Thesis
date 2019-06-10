@@ -1,0 +1,35 @@
+Time Stamp: 2019-04-25 01:41:58
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 17994
+ Number_of_Pauses: 1032
+ Total_Pauses: 16151.0
+ Total_Sounding: 1843.0
+ Pause_Proportion: 0.8975769701011448
+ Average_Pause_Length: 15.650193798449612
+
+Symbols 
+ Symbol Occurrence: [310, 203, 253, 213, 43, 10]
+ Ranked Probability: [(310, 'A'), (253, 'C'), (213, 'D'), (203, 'B'), (43, 'E'), (10, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [73, 237, 203, 253, 213, 43, 10]
+ Ranked Probability: [(253, 'D'), (237, 'B'), (213, 'E'), (203, 'C'), (73, 'A'), (43, 'F'), (10, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [73, 237, 203, 253, 213, 43, 10]
+ Ranked Probability: [(253, 'D'), (237, 'B'), (213, 'E'), (203, 'C'), (73, 'A'), (43, 'F'), (10, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [73, 237, 203, 253, 213, 43, 10]
+ Ranked Probability: [(253, 'D'), (237, 'B'), (213, 'E'), (203, 'C'), (73, 'A'), (43, 'F'), (10, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [73, 237, 203, 253, 213, 43, 10]
+ Ranked Probability: [(253, 'D'), (237, 'B'), (213, 'E'), (203, 'C'), (73, 'A'), (43, 'F'), (10, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [73, 237, 203, 253, 213, 43, 10]
+ Ranked Probability: [(253, 'D'), (237, 'B'), (213, 'E'), (203, 'C'), (73, 'A'), (43, 'F'), (10, 'G')]
+
+ 

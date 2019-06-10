@@ -1,0 +1,7 @@
+File 
+ Input Audio File Directory: ./data/pause_tests/timing/1s_10ms_1ms_3s/44100/1s_10ms_1ms_3s_44100.wav
+ Audio File Frequency: 44100
+
+Pause 
+ Minimum Silence: 0.001
+

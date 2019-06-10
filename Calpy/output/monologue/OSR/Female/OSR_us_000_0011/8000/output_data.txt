@@ -1,0 +1,10 @@
+Time Stamp: 2019-04-20 10:51:45
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 327
+ Number_of_Pauses: 25
+ Total_Pauses: 287.0
+ Total_Sounding: 40.0
+ Pause_Proportion: 0.8776758409785933
+ Average_Pause_Length: 11.48
+

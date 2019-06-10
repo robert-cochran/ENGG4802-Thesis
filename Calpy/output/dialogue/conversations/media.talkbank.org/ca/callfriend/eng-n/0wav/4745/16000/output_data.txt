@@ -1,0 +1,51 @@
+Time Stamp: 2019-04-20 11:09:46
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 14254
+ Number_of_Pauses: 76
+ Total_Pauses: 14175.0
+ Total_Sounding: 79.0
+ Pause_Proportion: 0.9944576960853094
+ Average_Pause_Length: 186.51315789473685
+
+Symbols 
+ Symbol Occurrence: [22, 6, 7, 4, 4, 10, 9, 11, 3]
+ Ranked Probability: [(22, 'A'), (11, 'H'), (10, 'F'), (9, 'G'), (7, 'C'), (6, 'B'), (4, 'D'), (4, 'E'), (3, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [22, 6, 7, 4, 4, 10, 9, 11, 3]
+ Ranked Probability: [(22, 'A'), (11, 'H'), (10, 'F'), (9, 'G'), (7, 'C'), (6, 'B'), (4, 'D'), (4, 'E'), (3, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [22, 6, 7, 4, 4, 10, 9, 11, 3]
+ Ranked Probability: [(22, 'A'), (11, 'H'), (10, 'F'), (9, 'G'), (7, 'C'), (6, 'B'), (4, 'D'), (4, 'E'), (3, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [22, 6, 7, 4, 4, 10, 9, 11, 3]
+ Ranked Probability: [(22, 'A'), (11, 'H'), (10, 'F'), (9, 'G'), (7, 'C'), (6, 'B'), (4, 'D'), (4, 'E'), (3, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [10, 3, 9, 11, 10, 10]
+ Ranked Probability: [(11, 'D'), (10, 'A'), (10, 'E'), (10, 'F'), (9, 'C'), (3, 'B')]
+
+ Symbols 
+ Symbol Occurrence: [10, 3, 9, 11, 10, 10]
+ Ranked Probability: [(11, 'D'), (10, 'A'), (10, 'E'), (10, 'F'), (9, 'C'), (3, 'B')]
+
+ Symbols 
+ Symbol Occurrence: [10, 3, 9, 11, 10, 10]
+ Ranked Probability: [(11, 'D'), (10, 'A'), (10, 'E'), (10, 'F'), (9, 'C'), (3, 'B')]
+
+ Symbols 
+ Symbol Occurrence: [10, 3, 9, 11, 10, 10]
+ Ranked Probability: [(11, 'D'), (10, 'A'), (10, 'E'), (10, 'F'), (9, 'C'), (3, 'B')]
+
+ Symbols 
+ Symbol Occurrence: [10, 3, 9, 11, 10, 10]
+ Ranked Probability: [(11, 'D'), (10, 'A'), (10, 'E'), (10, 'F'), (9, 'C'), (3, 'B')]
+
+ Symbols 
+ Symbol Occurrence: [10, 3, 9, 11, 10, 10]
+ Ranked Probability: [(11, 'D'), (10, 'A'), (10, 'E'), (10, 'F'), (9, 'C'), (3, 'B')]
+
+ 

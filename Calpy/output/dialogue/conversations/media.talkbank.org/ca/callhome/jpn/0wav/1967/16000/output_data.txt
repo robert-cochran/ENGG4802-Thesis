@@ -1,0 +1,31 @@
+Time Stamp: 2019-04-25 01:35:12
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 15067
+ Number_of_Pauses: 320
+ Total_Pauses: 14643.0
+ Total_Sounding: 424.0
+ Pause_Proportion: 0.9718590296674853
+ Average_Pause_Length: 45.759375
+
+Symbols 
+ Symbol Occurrence: [100, 49, 39, 49, 38, 30]
+ Ranked Probability: [(100, 'A'), (49, 'B'), (49, 'D'), (39, 'C'), (38, 'E'), (30, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [30, 70, 49, 39, 49, 38, 30]
+ Ranked Probability: [(70, 'B'), (49, 'C'), (49, 'E'), (39, 'D'), (38, 'F'), (30, 'A'), (30, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [30, 70, 49, 39, 49, 38, 30]
+ Ranked Probability: [(70, 'B'), (49, 'C'), (49, 'E'), (39, 'D'), (38, 'F'), (30, 'A'), (30, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [30, 70, 49, 39, 49, 38, 30]
+ Ranked Probability: [(70, 'B'), (49, 'C'), (49, 'E'), (39, 'D'), (38, 'F'), (30, 'A'), (30, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [30, 70, 49, 39, 49, 38, 30]
+ Ranked Probability: [(70, 'B'), (49, 'C'), (49, 'E'), (39, 'D'), (38, 'F'), (30, 'A'), (30, 'G')]
+
+ 

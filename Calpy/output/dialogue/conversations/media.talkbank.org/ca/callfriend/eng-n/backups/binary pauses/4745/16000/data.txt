@@ -1,0 +1,5 @@
+Symbols 
+ Symbol Occurrence: [22, 6, 7, 4, 4, 10, 9, 11, 3]
+ Ranked Probability: [(22, 'A'), (11, 'H'), (10, 'F'), (9, 'G'), (7, 'C'), (6, 'B'), (4, 'D'), (4, 'E'), (3, 'I')]
+
+ 

@@ -1,0 +1,123 @@
+Time Stamp: 2019-04-20 11:21:26
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 17999
+ Number_of_Pauses: 890
+ Total_Pauses: 16448.0
+ Total_Sounding: 1551.0
+ Pause_Proportion: 0.913828546030335
+ Average_Pause_Length: 18.480898876404495
+
+Symbols 
+ Symbol Occurrence: [671, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(671, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(671, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(671, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(671, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [1342, 901, 894, 872, 874, 897, 899, 890, 0]
+ Ranked Probability: [(1342, 'A'), (901, 'B'), (899, 'G'), (897, 'F'), (894, 'C'), (890, 'H'), (874, 'E'), (872, 'D'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [1342, 901, 894, 872, 874, 897, 899, 890, 0]
+ Ranked Probability: [(1342, 'A'), (901, 'B'), (899, 'G'), (897, 'F'), (894, 'C'), (890, 'H'), (874, 'E'), (872, 'D'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(671, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [1342, 901, 894, 872, 874, 897, 899, 890, 0]
+ Ranked Probability: [(1342, 'A'), (901, 'B'), (899, 'G'), (897, 'F'), (894, 'C'), (890, 'H'), (874, 'E'), (872, 'D'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(671, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [7350, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(7350, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [7350, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(7350, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [7350, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(7350, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [7350, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(7350, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [7350, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(7350, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(671, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(0, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [6679, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(6679, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(0, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [6679, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(6679, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [6679, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(6679, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 786, 840, 856, 865, 881, 890, 890, 0]
+ Ranked Probability: [(890, 'G'), (890, 'H'), (881, 'F'), (865, 'E'), (856, 'D'), (840, 'C'), (786, 'B'), (671, 'A'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 786, 840, 856, 865, 881, 890, 890, 0]
+ Ranked Probability: [(890, 'G'), (890, 'H'), (881, 'F'), (865, 'E'), (856, 'D'), (840, 'C'), (786, 'B'), (671, 'A'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(0, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(0, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(0, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(0, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [0, 0, 0, 0, 0, 0, 0, 0, 0]
+ Ranked Probability: [(0, 'A'), (0, 'B'), (0, 'C'), (0, 'D'), (0, 'E'), (0, 'F'), (0, 'G'), (0, 'H'), (0, 'I')]
+
+ Symbols 
+ Symbol Occurrence: [671, 115, 54, 16, 9, 16, 9, 0, 0]
+ Ranked Probability: [(671, 'A'), (115, 'B'), (54, 'C'), (16, 'D'), (16, 'F'), (9, 'E'), (9, 'G'), (0, 'H'), (0, 'I')]
+
+ 

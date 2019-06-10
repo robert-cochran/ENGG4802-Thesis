@@ -1,0 +1,5 @@
+Symbols 
+ Symbol Occurrence: [39, 19, 8, 11, 8, 13, 15, 5, 6]
+ Ranked Probability: [(39, 'A'), (19, 'B'), (15, 'G'), (13, 'F'), (11, 'D'), (8, 'C'), (8, 'E'), (6, 'I'), (5, 'H')]
+
+ 

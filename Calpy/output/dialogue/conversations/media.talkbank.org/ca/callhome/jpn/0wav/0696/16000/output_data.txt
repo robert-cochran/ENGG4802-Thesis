@@ -1,0 +1,103 @@
+Time Stamp: 2019-04-24 23:28:34
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 8995
+ Number_of_Pauses: 796
+ Total_Pauses: 7570.0
+ Total_Sounding: 1425.0
+ Pause_Proportion: 0.8415786548082268
+ Average_Pause_Length: 9.510050251256281
+
+Symbols 
+ Symbol Occurrence: [352, 191, 144, 98, 10, 1]
+ Ranked Probability: [(352, 'A'), (191, 'B'), (144, 'C'), (98, 'D'), (10, 'E'), (1, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [109, 243, 191, 144, 98, 10, 1]
+ Ranked Probability: [(243, 'B'), (191, 'C'), (144, 'D'), (109, 'A'), (98, 'E'), (10, 'F'), (1, 'G')]
+
+ 

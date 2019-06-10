@@ -1,0 +1,1 @@
+<bound method AudioFile.pauses of <calpy.pause.audio_file_.AudioFile object at 0x101d17ef0>>

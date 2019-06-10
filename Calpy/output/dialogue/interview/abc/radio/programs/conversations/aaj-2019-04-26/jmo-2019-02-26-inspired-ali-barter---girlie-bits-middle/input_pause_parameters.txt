@@ -1,0 +1,7 @@
+File 
+ Input Audio File Directory: ./data/dialogue/interview/abc/radio/programs/conversations/aaj-2019-04-26/jmo-2019-02-26-inspired-ali-barter---girlie-bits-middle/aaj-2019-04-26_jmo-2019-02-26-inspired-ali-barter---girlie-bits-middle.wav
+ Audio File Frequency: jmo-2019-02-26-inspired-ali-barter---girlie-bits-middle
+
+Pause 
+ Minimum Silence: 0.001
+

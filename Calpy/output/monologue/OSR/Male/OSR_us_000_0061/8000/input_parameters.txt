@@ -1,0 +1,7 @@
+File 
+ Input Audio File Directory: ./data/monologue/OSR/Male/OSR_us_000_0061/8000/OSR_us_000_0061_8000.wav
+ Audio File Frequency: 8000
+
+Pause 
+ Minimum Silence: 0.001
+

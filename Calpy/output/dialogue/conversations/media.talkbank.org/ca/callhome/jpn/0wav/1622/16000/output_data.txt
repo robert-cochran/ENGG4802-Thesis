@@ -1,0 +1,35 @@
+Time Stamp: 2019-04-25 00:54:08
+
+Pause 
+ Binary_Pause_Total_Length(Audio_file_length): 17994
+ Number_of_Pauses: 647
+ Total_Pauses: 16877.0
+ Total_Sounding: 1117.0
+ Pause_Proportion: 0.9379237523618984
+ Average_Pause_Length: 26.08500772797527
+
+Symbols 
+ Symbol Occurrence: [243, 109, 76, 102, 79, 32]
+ Ranked Probability: [(243, 'A'), (109, 'B'), (102, 'D'), (79, 'E'), (76, 'C'), (32, 'F')]
+
+ Symbols 
+ Symbol Occurrence: [96, 147, 109, 76, 102, 79, 32]
+ Ranked Probability: [(147, 'B'), (109, 'C'), (102, 'E'), (96, 'A'), (79, 'F'), (76, 'D'), (32, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [96, 147, 109, 76, 102, 79, 32]
+ Ranked Probability: [(147, 'B'), (109, 'C'), (102, 'E'), (96, 'A'), (79, 'F'), (76, 'D'), (32, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [96, 147, 109, 76, 102, 79, 32]
+ Ranked Probability: [(147, 'B'), (109, 'C'), (102, 'E'), (96, 'A'), (79, 'F'), (76, 'D'), (32, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [96, 147, 109, 76, 102, 79, 32]
+ Ranked Probability: [(147, 'B'), (109, 'C'), (102, 'E'), (96, 'A'), (79, 'F'), (76, 'D'), (32, 'G')]
+
+ Symbols 
+ Symbol Occurrence: [96, 147, 109, 76, 102, 79, 32]
+ Ranked Probability: [(147, 'B'), (109, 'C'), (102, 'E'), (96, 'A'), (79, 'F'), (76, 'D'), (32, 'G')]
+
+ 

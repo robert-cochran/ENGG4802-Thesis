@@ -1,0 +1,9 @@
+File: all 
+ Audio Length: -- 
+ Binary Pause Array Length: 30816.636363636364
+ Total Audio Pause: 19763.727272727272
+ Total Sounding: 11052.90909090909
+ Pause Proportion: 0.6414979337361518
+ Number of Pauses: 4724.727272727273
+ Pause Length: 4.379157964451131
+ 

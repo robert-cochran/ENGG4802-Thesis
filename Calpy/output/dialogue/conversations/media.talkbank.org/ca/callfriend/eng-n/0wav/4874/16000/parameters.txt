@@ -1,0 +1,18 @@
+Symbols 
+ Number of Symbols: 8
+ Symbol Model: [20, 40, 60, 80, 100, 200, 400, 800]
+ Symbols produced: 415
+
+Entropy 
+ M: 27
+ ap: 0.0073
+ bp: 4.2432
+ cp: 4.2013
+ window_size: 100
+ window_overlap: 5
+
+Plots 
+ Histogram 
+  Bins: 20
+  Bin Range: 0, 100
+  

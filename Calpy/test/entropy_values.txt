@@ -1,0 +1,7 @@
+Start 
+cnts 4  new cnts 0  probs 0  ent_prof 1  
+cnts 5  new cnts 1  probs 1  ent_prof 0  
+cnts 5  new cnts 1  probs 1  ent_prof 0  
+cnts 3  new cnts 0  probs 0  ent_prof 1  
+cnts 3  new cnts 0  probs 0  ent_prof 1  
+cnts 3  new cnts 0  probs 0  ent_prof 1  
