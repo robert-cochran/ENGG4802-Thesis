@@ -3,6 +3,8 @@ My final year thesis involved adding to the Calpy system which aimed to detect a
 
 # Poster
 The poster contains a summary of my work: 
+![Alt text](poster.png?raw=true "Title")
 
 
 # Code
+The calpy folder contains the code used to produce the results shown in the poster, however the dataset is not provided and will need to be downloaded from the databank provided in the thesis (too big to upload to github).
